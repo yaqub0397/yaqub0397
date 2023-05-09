@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working with **@TCS**
 
-- 🌱 I’m currently learning **Full Stack Web Developement **
+- 🌱 I’m currently learning **Full Stack Web Developement**
 
 - 💬 Ask me about **coding and preparation**
 
