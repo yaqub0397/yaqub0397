@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm MD YAQUB ANSARI</h1>
 <h3 align="center">A Noob FullStack Web Developer from India</h3>
-<img align="right" alt="Coding" width="350" height="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300" height="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working with **@TCS**
 
